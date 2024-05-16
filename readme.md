@@ -10,7 +10,7 @@ XR Animator, inherited from my previous desktop gadget project known as System A
 
 It has a variety of motion tracking options. You can choose to track the face, full body, or something in between (any combination of face/body/hands).
 
-The web app version works on all major web browsers both on desktop and smartphone. On browsers supporting both web worker and OffscreenCanvas (e.g. Chrome), it can achieve 60fps visual rendering and 30fps body pose detection on a medicore PC. On smartphones with limited processing power, you may want to use limit its usage on face tracking.
+The web app version works on all major web browsers both on desktop and smartphone. On browsers supporting both web worker and OffscreenCanvas (e.g. Chrome), it can achieve 60fps visual rendering and 30fps body pose detection on a mediocre PC. On smartphones with limited processing power, you may want to use limit its usage on face tracking.
 
 ### 🌐[XR Animator - Web app version](https://sao.animetheme.com/XR_Animator.html)
 
@@ -84,15 +84,21 @@ Lastly, click the Snapshot icon and a still photo will be generated. This can be
 
 [Check out the following YouTube video](https://youtu.be/TIMPqV9lVH8) for demonstration.
 
-# ❤️Donation
+# ❤️Support this project
 
-XR Animator inherits from System Animator, my desktop gadget project which have been active for many years. Lots of time, efforts and money have been spent to keep these projects free and running. If you like my works, please consider making a donation. Your financial support is needed to keep us going!🙏
+The future of XR Animator relies on your support🙇 Some IRL family issues have significantly increased my financial burden. While it was fun to develop the app, financial return was next to minimal. Reality forces me to evaluate the sustainability of this project, or soon I will have to give up...😢
 
+If you like XR Animator, please consider making a donation🙇 Or even better, join my membership with perks such as ***EARLY ACCESS to the latest version XR Animator*** (at least one month ahead of the public release on GitHub), insider stories/tips and other benefits🎁 Sponsor us, and help keep this project free and sustainable🙏
+
+- ☕[Ko-fi (Membership)](https://ko-fi.com/butzyung/tiers)
+- 🎁[FANBOX (メンバーシップ)](https://xra.fanbox.cc/)
 - ☕[Buy Me a Coffee](https://ko-fi.com/butzyung)
+- 🙏[Donate via PayPal](https://www.paypal.me/AnimeThemeGadgets)
 
-- 🙏[Donate via PayPal.Me](https://www.paypal.me/AnimeThemeGadgets)
+XR Animator is currently sponsored by the following persons❤️
 
-- 🟡Donate via Bitcoin ( 1KkHVxgn4tusMhXNt1qFqSpiCiDRcqUh8p )
+- **NewruGuru, Nymph, Shionay, shion, KuraiNoOni, MShade, Dominic Renner, Kai**
+- Other supporters
 
 # About System Animator
 
@@ -195,6 +201,8 @@ All demos support the use of custom MMD (MikuMikuDance) model. Drop a zip of you
 
 - Various 3D background effects ported and modified from codes found on [Shadertoy](https://www.shadertoy.com/)
 
+- Some icons and backgrounds from [Freepik](https://www.freepik.com/)
+
 - For some other third-party programming libraries/3D data/assets used in System Animator, please refer to the corresponding script/readme for license and terms (can be found on the downloadable/Github version of System Animator).
 
 ### Other third-party assests used in some demos
@@ -221,11 +229,14 @@ All demos support the use of custom MMD (MikuMikuDance) model. Drop a zip of you
 - Twitter:
   https://twitter.com/butz_yung
 
+- Discord:
+  https://discord.gg/Xs4YEMVtkx
+
 - Ko-fi:
   https://ko-fi.com/butzyung
 
-- BOOTH:
-  https://xr-animator.booth.pm/
+- FANBOX:
+  https://xra.fanbox.cc/
 
 - Facebook:
   https://www.facebook.com/AnimeThemeGadgets/
